@@ -1,0 +1,330 @@
+2021-10-29 15:09:12,167 INFO Starting Nacos v1.4.1 on DEEP-2020AEBKQR with PID 10844 (D:\work\33_ticket\project\nacos\target\nacos-server.jar started by Administrator in D:\work\33_ticket\project\nacos\bin)
+
+2021-10-29 15:09:12,168 INFO The following profiles are active: standalone
+
+2021-10-29 15:09:21,309 INFO Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@5b7a8434' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2021-10-29 15:09:21,315 INFO Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2021-10-29 15:09:22,566 INFO Tomcat initialized with port(s): 8848 (http)
+
+2021-10-29 15:09:22,604 INFO Starting service [Tomcat]
+
+2021-10-29 15:09:22,604 INFO Starting Servlet engine: [Apache Tomcat/9.0.38]
+
+2021-10-29 15:09:23,120 INFO At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+
+2021-10-29 15:09:23,166 INFO Initializing Spring embedded WebApplicationContext
+
+2021-10-29 15:09:23,166 INFO Root WebApplicationContext: initialization completed in 10853 ms
+
+2021-10-29 15:09:24,507 INFO HikariPool-1 - Starting...
+
+2021-10-29 15:09:24,511 WARN Registered driver with driverClassName=org.apache.derby.jdbc.EmbeddedDriver was not found, trying direct instantiation.
+
+2021-10-29 15:09:25,237 INFO HikariPool-1 - Driver does not support get/set network timeout for connections. (Feature not implemented: No details.)
+
+2021-10-29 15:09:25,268 INFO HikariPool-1 - Start completed.
+
+2021-10-29 15:09:27,258 INFO Nacos-related cluster resource initialization
+
+2021-10-29 15:09:27,273 INFO The cluster resource is initialized
+
+2021-10-29 15:09:27,850 INFO Reflections took 59 ms to scan 1 urls, producing 4 keys and 6 values 
+
+2021-10-29 15:09:27,885 INFO Reflections took 4 ms to scan 1 urls, producing 6 keys and 26 values 
+
+2021-10-29 15:09:27,902 INFO Reflections took 3 ms to scan 1 urls, producing 3 keys and 15 values 
+
+2021-10-29 15:09:27,917 INFO Reflections took 2 ms to scan 1 urls, producing 2 keys and 12 values 
+
+2021-10-29 15:09:29,372 INFO Initializing ExecutorService 'applicationTaskExecutor'
+
+2021-10-29 15:09:29,516 INFO Adding welcome page: class path resource [static/index.html]
+
+2021-10-29 15:09:30,376 INFO Creating filter chain: Ant [pattern='/**'], []
+
+2021-10-29 15:09:30,438 INFO Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@681aad3b, org.springframework.security.web.context.SecurityContextPersistenceFilter@4628b1d3, org.springframework.security.web.header.HeaderWriterFilter@655a5d9c, org.springframework.security.web.csrf.CsrfFilter@27eb3298, org.springframework.security.web.authentication.logout.LogoutFilter@cc6460c, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@1df98368, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@2cd2c8fe, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@1a6f2363, org.springframework.security.web.session.SessionManagementFilter@34abdee4, org.springframework.security.web.access.ExceptionTranslationFilter@bc57b40]
+
+2021-10-29 15:09:30,675 INFO Initializing ExecutorService 'taskScheduler'
+
+2021-10-29 15:09:30,699 INFO Exposing 2 endpoint(s) beneath base path '/actuator'
+
+2021-10-29 15:09:30,860 INFO Tomcat started on port(s): 8848 (http) with context path '/nacos'
+
+2021-10-29 15:09:30,864 INFO Started Nacos in 21.525 seconds (JVM running for 22.549)
+
+2021-10-29 15:09:30,864 INFO Nacos started successfully in stand alone mode. use embedded storage
+
+2021-10-29 15:09:43,840 INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+
+2021-10-29 15:09:43,841 INFO Initializing Servlet 'dispatcherServlet'
+
+2021-10-29 15:09:43,855 INFO Completed initialization in 13 ms
+
+2021-10-29 15:19:28,121 INFO [capacityManagement] start correct usage
+
+2021-10-29 15:19:28,139 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-29 15:19:28,527 WARN clearConfigHistory start
+
+2021-10-29 15:19:28,532 WARN clearConfigHistory, getBeforeStamp:2021-09-29 15:19:28.0, totalCount:24, pageSize:1000, removeTime:1
+
+2021-10-29 15:29:28,140 INFO [capacityManagement] start correct usage
+
+2021-10-29 15:29:28,140 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-29 15:29:28,612 WARN clearConfigHistory start
+
+2021-10-29 15:29:28,613 WARN clearConfigHistory, getBeforeStamp:2021-09-29 15:29:28.0, totalCount:24, pageSize:1000, removeTime:1
+
+2021-10-29 15:39:28,141 INFO [capacityManagement] start correct usage
+
+2021-10-29 15:39:28,142 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-29 15:39:28,615 WARN clearConfigHistory start
+
+2021-10-29 15:39:28,615 WARN clearConfigHistory, getBeforeStamp:2021-09-29 15:39:28.0, totalCount:24, pageSize:1000, removeTime:1
+
+2021-10-29 15:49:28,143 INFO [capacityManagement] start correct usage
+
+2021-10-29 15:49:28,143 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-29 15:49:28,619 WARN clearConfigHistory start
+
+2021-10-29 15:49:28,620 WARN clearConfigHistory, getBeforeStamp:2021-09-29 15:49:28.0, totalCount:24, pageSize:1000, removeTime:1
+
+2021-10-29 15:59:28,144 INFO [capacityManagement] start correct usage
+
+2021-10-29 15:59:28,145 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-29 15:59:28,625 WARN clearConfigHistory start
+
+2021-10-29 15:59:28,626 WARN clearConfigHistory, getBeforeStamp:2021-09-29 15:59:28.0, totalCount:24, pageSize:1000, removeTime:1
+
+2021-10-29 16:09:28,145 INFO [capacityManagement] start correct usage
+
+2021-10-29 16:09:28,145 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-29 16:09:28,631 WARN clearConfigHistory start
+
+2021-10-29 16:09:28,632 WARN clearConfigHistory, getBeforeStamp:2021-09-29 16:09:28.0, totalCount:24, pageSize:1000, removeTime:1
+
+2021-10-29 16:19:28,147 INFO [capacityManagement] start correct usage
+
+2021-10-29 16:19:28,147 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-29 16:19:28,633 WARN clearConfigHistory start
+
+2021-10-29 16:19:28,633 WARN clearConfigHistory, getBeforeStamp:2021-09-29 16:19:28.0, totalCount:24, pageSize:1000, removeTime:1
+
+2021-10-29 16:23:31,796 INFO A cookie header was received [1629424772; Idea-8296e76f=f9edbdb8-80ec-4fa7-ae90-b1fa9b0b6428; token=15665825817msbfajshbadsmnfbasmfa1111111] that contained an invalid cookie. That cookie will be ignored.
+ Note: further occurrences of this error will be logged at DEBUG level.
+
+2021-10-29 16:29:28,148 INFO [capacityManagement] start correct usage
+
+2021-10-29 16:29:28,148 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-29 16:29:28,635 WARN clearConfigHistory start
+
+2021-10-29 16:29:28,636 WARN clearConfigHistory, getBeforeStamp:2021-09-29 16:29:28.0, totalCount:24, pageSize:1000, removeTime:1
+
+2021-10-29 16:39:28,150 INFO [capacityManagement] start correct usage
+
+2021-10-29 16:39:28,150 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-29 16:39:28,639 WARN clearConfigHistory start
+
+2021-10-29 16:39:28,639 WARN clearConfigHistory, getBeforeStamp:2021-09-29 16:39:28.0, totalCount:24, pageSize:1000, removeTime:1
+
+2021-10-29 16:49:28,151 INFO [capacityManagement] start correct usage
+
+2021-10-29 16:49:28,151 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-29 16:49:28,641 WARN clearConfigHistory start
+
+2021-10-29 16:49:28,641 WARN clearConfigHistory, getBeforeStamp:2021-09-29 16:49:28.0, totalCount:24, pageSize:1000, removeTime:1
+
+2021-10-29 16:59:28,152 INFO [capacityManagement] start correct usage
+
+2021-10-29 16:59:28,152 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-29 16:59:28,645 WARN clearConfigHistory start
+
+2021-10-29 16:59:28,645 WARN clearConfigHistory, getBeforeStamp:2021-09-29 16:59:28.0, totalCount:24, pageSize:1000, removeTime:1
+
+2021-10-29 17:09:28,154 INFO [capacityManagement] start correct usage
+
+2021-10-29 17:09:28,154 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-29 17:09:28,647 WARN clearConfigHistory start
+
+2021-10-29 17:09:28,648 WARN clearConfigHistory, getBeforeStamp:2021-09-29 17:09:28.0, totalCount:24, pageSize:1000, removeTime:1
+
+2021-10-29 17:19:28,155 INFO [capacityManagement] start correct usage
+
+2021-10-29 17:19:28,155 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-29 17:19:28,649 WARN clearConfigHistory start
+
+2021-10-29 17:19:28,649 WARN clearConfigHistory, getBeforeStamp:2021-09-29 17:19:28.0, totalCount:24, pageSize:1000, removeTime:1
+
+2021-10-29 17:29:28,156 INFO [capacityManagement] start correct usage
+
+2021-10-29 17:29:28,156 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-29 17:29:28,652 WARN clearConfigHistory start
+
+2021-10-29 17:29:28,652 WARN clearConfigHistory, getBeforeStamp:2021-09-29 17:29:28.0, totalCount:24, pageSize:1000, removeTime:1
+
+2021-10-29 17:39:28,158 INFO [capacityManagement] start correct usage
+
+2021-10-29 17:39:28,158 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-29 17:39:28,654 WARN clearConfigHistory start
+
+2021-10-29 17:39:28,655 WARN clearConfigHistory, getBeforeStamp:2021-09-29 17:39:28.0, totalCount:24, pageSize:1000, removeTime:1
+
+2021-10-29 17:49:28,160 INFO [capacityManagement] start correct usage
+
+2021-10-29 17:49:28,161 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-29 17:49:28,656 WARN clearConfigHistory start
+
+2021-10-29 17:49:28,657 WARN clearConfigHistory, getBeforeStamp:2021-09-29 17:49:28.0, totalCount:24, pageSize:1000, removeTime:1
+
+2021-10-29 17:59:28,163 INFO [capacityManagement] start correct usage
+
+2021-10-29 17:59:28,163 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-29 17:59:28,659 WARN clearConfigHistory start
+
+2021-10-29 17:59:28,659 WARN clearConfigHistory, getBeforeStamp:2021-09-29 17:59:28.0, totalCount:24, pageSize:1000, removeTime:1
+
+2021-10-29 18:09:28,165 INFO [capacityManagement] start correct usage
+
+2021-10-29 18:09:28,165 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-29 18:09:28,662 WARN clearConfigHistory start
+
+2021-10-29 18:09:28,662 WARN clearConfigHistory, getBeforeStamp:2021-09-29 18:09:28.0, totalCount:24, pageSize:1000, removeTime:1
+
+2021-10-29 18:19:28,167 INFO [capacityManagement] start correct usage
+
+2021-10-29 18:19:28,167 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-29 18:19:28,663 WARN clearConfigHistory start
+
+2021-10-29 18:19:28,663 WARN clearConfigHistory, getBeforeStamp:2021-09-29 18:19:28.0, totalCount:24, pageSize:1000, removeTime:1
+
+2021-10-29 18:29:28,168 INFO [capacityManagement] start correct usage
+
+2021-10-29 18:29:28,168 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-29 18:29:28,665 WARN clearConfigHistory start
+
+2021-10-29 18:29:28,665 WARN clearConfigHistory, getBeforeStamp:2021-09-29 18:29:28.0, totalCount:24, pageSize:1000, removeTime:1
+
+2021-10-29 18:39:28,170 INFO [capacityManagement] start correct usage
+
+2021-10-29 18:39:28,170 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-29 18:39:28,667 WARN clearConfigHistory start
+
+2021-10-29 18:39:28,667 WARN clearConfigHistory, getBeforeStamp:2021-09-29 18:39:28.0, totalCount:24, pageSize:1000, removeTime:1
+
+2021-10-29 18:49:28,172 INFO [capacityManagement] start correct usage
+
+2021-10-29 18:49:28,172 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-29 18:49:28,668 WARN clearConfigHistory start
+
+2021-10-29 18:49:28,668 WARN clearConfigHistory, getBeforeStamp:2021-09-29 18:49:28.0, totalCount:24, pageSize:1000, removeTime:1
+
+2021-10-29 19:38:01,364 INFO Starting Nacos v1.4.1 on DEEP-2020AEBKQR with PID 6820 (D:\work\33_ticket\project\nacos\target\nacos-server.jar started by Administrator in D:\work\33_ticket\project\nacos\bin)
+
+2021-10-29 19:38:01,364 INFO The following profiles are active: standalone
+
+2021-10-29 19:38:08,519 INFO Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@5026735c' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2021-10-29 19:38:08,550 INFO Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2021-10-29 19:38:09,565 INFO Tomcat initialized with port(s): 8848 (http)
+
+2021-10-29 19:38:09,596 INFO Starting service [Tomcat]
+
+2021-10-29 19:38:09,596 INFO Starting Servlet engine: [Apache Tomcat/9.0.38]
+
+2021-10-29 19:38:09,987 INFO At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+
+2021-10-29 19:38:10,034 INFO Initializing Spring embedded WebApplicationContext
+
+2021-10-29 19:38:10,034 INFO Root WebApplicationContext: initialization completed in 8560 ms
+
+2021-10-29 19:38:11,080 INFO HikariPool-1 - Starting...
+
+2021-10-29 19:38:11,080 WARN Registered driver with driverClassName=org.apache.derby.jdbc.EmbeddedDriver was not found, trying direct instantiation.
+
+2021-10-29 19:38:11,627 INFO HikariPool-1 - Driver does not support get/set network timeout for connections. (Feature not implemented: No details.)
+
+2021-10-29 19:38:11,643 INFO HikariPool-1 - Start completed.
+
+2021-10-29 19:38:13,189 INFO Nacos-related cluster resource initialization
+
+2021-10-29 19:38:13,205 INFO The cluster resource is initialized
+
+2021-10-29 19:38:13,673 INFO Reflections took 47 ms to scan 1 urls, producing 4 keys and 6 values 
+
+2021-10-29 19:38:13,705 INFO Reflections took 16 ms to scan 1 urls, producing 6 keys and 26 values 
+
+2021-10-29 19:38:13,705 INFO Reflections took 0 ms to scan 1 urls, producing 3 keys and 15 values 
+
+2021-10-29 19:38:13,720 INFO Reflections took 0 ms to scan 1 urls, producing 2 keys and 12 values 
+
+2021-10-29 19:38:14,861 INFO Initializing ExecutorService 'applicationTaskExecutor'
+
+2021-10-29 19:38:14,954 INFO Adding welcome page: class path resource [static/index.html]
+
+2021-10-29 19:38:15,626 INFO Creating filter chain: Ant [pattern='/**'], []
+
+2021-10-29 19:38:15,673 INFO Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@2d72f75e, org.springframework.security.web.context.SecurityContextPersistenceFilter@76318a7d, org.springframework.security.web.header.HeaderWriterFilter@641856, org.springframework.security.web.csrf.CsrfFilter@1a6f2363, org.springframework.security.web.authentication.logout.LogoutFilter@5400db36, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@3277e499, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@411341bd, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@8ab78bc, org.springframework.security.web.session.SessionManagementFilter@2f66e802, org.springframework.security.web.access.ExceptionTranslationFilter@5ebd56e9]
+
+2021-10-29 19:38:15,860 INFO Initializing ExecutorService 'taskScheduler'
+
+2021-10-29 19:38:15,876 INFO Exposing 2 endpoint(s) beneath base path '/actuator'
+
+2021-10-29 19:38:16,017 INFO Tomcat started on port(s): 8848 (http) with context path '/nacos'
+
+2021-10-29 19:38:16,017 INFO Started Nacos in 16.933 seconds (JVM running for 17.752)
+
+2021-10-29 19:38:16,017 INFO Nacos started successfully in stand alone mode. use embedded storage
+
+2021-10-29 19:38:38,457 INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+
+2021-10-29 19:38:38,457 INFO Initializing Servlet 'dispatcherServlet'
+
+2021-10-29 19:38:38,457 INFO Completed initialization in 0 ms
+
+2021-10-29 19:44:03,716 INFO A cookie header was received [1629424772; Idea-8296e76f=f9edbdb8-80ec-4fa7-ae90-b1fa9b0b6428; token=15665825817msbfajshbadsmnfbasmfa1111111] that contained an invalid cookie. That cookie will be ignored.
+ Note: further occurrences of this error will be logged at DEBUG level.
+
+2021-10-29 19:48:13,897 INFO [capacityManagement] start correct usage
+
+2021-10-29 19:48:13,912 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-29 19:48:14,225 WARN clearConfigHistory start
+
+2021-10-29 19:48:14,225 WARN clearConfigHistory, getBeforeStamp:2021-09-29 19:48:14.0, totalCount:24, pageSize:1000, removeTime:1
+
+2021-10-29 19:58:13,916 INFO [capacityManagement] start correct usage
+
+2021-10-29 19:58:13,917 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-29 19:58:14,318 WARN clearConfigHistory start
+
+2021-10-29 19:58:14,323 WARN clearConfigHistory, getBeforeStamp:2021-09-29 19:58:14.0, totalCount:24, pageSize:1000, removeTime:1
+
+2021-10-29 20:01:31,943 WARN [HttpClientBeanHolder] Start destroying common HttpClient
+
+2021-10-29 20:01:31,943 WARN [ConfigServer-HttpClientManager] Start destroying NacosRestTemplate
+

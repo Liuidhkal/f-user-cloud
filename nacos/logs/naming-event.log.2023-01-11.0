@@ -1,0 +1,40 @@
+2023-01-11 10:08:25,515 INFO DEFAULT_GROUP@@admin-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.220.1:9001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-01-11 10:08:25,516 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@admin-service, ips: 192.168.220.1:9001_true,
+
+2023-01-11 10:08:47,441 INFO DEFAULT_GROUP@@ticket-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.220.1:9006:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-01-11 10:08:47,441 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@ticket-service, ips: 192.168.220.1:9006_true,
+
+2023-01-11 10:08:50,354 INFO DEFAULT_GROUP@@gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.220.1:8062:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-01-11 10:08:50,354 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway, ips: 192.168.220.1:8062_true,
+
+2023-01-11 11:05:53,426 INFO DEFAULT_GROUP@@gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.220.1:8062:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-01-11 11:05:53,426 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway, ips: 
+
+2023-01-11 11:05:54,340 INFO DEFAULT_GROUP@@admin-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.220.1:9001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-01-11 11:05:54,340 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@admin-service, ips: 
+
+2023-01-11 11:05:54,487 INFO DEFAULT_GROUP@@ticket-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.220.1:9006:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-01-11 11:05:54,487 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@ticket-service, ips: 
+
+2023-01-11 11:14:35,651 INFO DEFAULT_GROUP@@auth-center {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.220.1:9098:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-01-11 11:14:35,651 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@auth-center, ips: 192.168.220.1:9098_true,
+
+2023-01-11 11:16:31,774 INFO DEFAULT_GROUP@@auth-center {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.220.1:9098:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-01-11 11:16:31,774 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@auth-center, ips: 
+
+2023-01-11 11:17:03,633 INFO DEFAULT_GROUP@@auth-center {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.220.1:9098:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-01-11 11:17:03,633 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@auth-center, ips: 192.168.220.1:9098_true,
+
+2023-01-11 11:18:08,927 INFO DEFAULT_GROUP@@admin-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.220.1:9001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-01-11 11:18:08,927 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@admin-service, ips: 192.168.220.1:9001_true,
+

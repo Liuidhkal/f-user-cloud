@@ -1,0 +1,16 @@
+2021-10-25 18:01:48,685 INFO [dump-all-ok] common.yaml+DEFAULT_GROUP, 1616036812762, length=597, md5=f0846eb078f2f8574e67d66012c25602
+
+2021-10-25 18:01:48,687 INFO [dump-all-ok] db.yaml+DEFAULT_GROUP, 1634025071664, length=574, md5=08141709f741f04a76dbefdf80e6f483
+
+2021-10-25 18:01:48,688 INFO [dump-all-ok] security.yaml+DEFAULT_GROUP, 1616036964863, length=131, md5=002071a53c835ed054759bcce0d8d127
+
+2021-10-25 18:01:48,688 INFO [dump-all-ok] auth-center-dev.yaml+DEFAULT_GROUP, 1616037224165, length=84, md5=9773e9d9a87d5621b48a8f7ff2de0434
+
+2021-10-25 18:01:48,688 INFO [dump-all-ok] gateway-dev.yaml+DEFAULT_GROUP, 1634024455562, length=957, md5=1e36ed4cb50cd35bcd47aa6f203e4a29
+
+2021-10-25 18:01:48,689 INFO [dump-all-ok] admin-service-dev.yaml+DEFAULT_GROUP, 1616037421769, length=21, md5=966d600486bd58d79ecbb04e62efb72c
+
+2021-10-25 18:01:48,689 INFO [dump-all-ok] security-service-dev.yaml+DEFAULT_GROUP, 1616038889648, length=305, md5=52415655502d90a7b3f0b643d44401ea
+
+2021-10-25 18:01:48,689 INFO [dump-all-ok] ticket-service-dev.yaml+DEFAULT_GROUP, 1632283678024, length=21, md5=900097e2d76c7abb22d12494f50ab799
+

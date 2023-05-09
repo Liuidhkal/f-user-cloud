@@ -1,0 +1,34 @@
+2021-10-27 11:06:41,621 INFO [dump-all-ok] admin-service-dev.yaml+DEFAULT_GROUP, 1635156407109, length=294, md5=f1247a48d3d7f71c92071660a1b079eb
+
+2021-10-27 11:06:41,623 INFO [dump-all-ok] auth-center-dev.yaml+DEFAULT_GROUP, 1635156407109, length=84, md5=9773e9d9a87d5621b48a8f7ff2de0434
+
+2021-10-27 11:06:41,625 INFO [dump-all-ok] common.yaml+DEFAULT_GROUP, 1635156407109, length=597, md5=f0846eb078f2f8574e67d66012c25602
+
+2021-10-27 11:06:41,625 INFO [dump-all-ok] db.yaml+DEFAULT_GROUP, 1635157151500, length=563, md5=d3e52f55eb3b01686967ee48803fe4a3
+
+2021-10-27 11:06:41,625 INFO [dump-all-ok] gateway-dev.yaml+DEFAULT_GROUP, 1635157302006, length=954, md5=21a1dae6a41a4e35c8e7f34c1c22a64a
+
+2021-10-27 11:06:41,625 INFO [dump-all-ok] pay-service-dev.yaml+DEFAULT_GROUP, 1635156407109, length=20, md5=832e34a52826a061697640e41dc4aa44
+
+2021-10-27 11:06:41,626 INFO [dump-all-ok] security.yaml+DEFAULT_GROUP, 1635156407109, length=127, md5=791d88f7c514dc017a8c4d02af820def
+
+2021-10-27 11:06:41,626 INFO [dump-all-ok] ticket-service-dev.yaml+DEFAULT_GROUP, 1635156407109, length=21, md5=900097e2d76c7abb22d12494f50ab799
+
+2021-10-27 11:11:11,740 WARN [dump-ignore] ignore to save cache file. groupKey=gateway-dev.yaml+DEFAULT_GROUP, md5=4f21d2099825bad8c6d961d78bef0e62, lastModifiedOld=1635304267135, lastModifiedNew=1635304271660
+
+2021-10-27 11:15:54,381 INFO [dump-all-ok] admin-service-dev.yaml+DEFAULT_GROUP, 1635156407109, length=294, md5=f1247a48d3d7f71c92071660a1b079eb
+
+2021-10-27 11:15:54,382 INFO [dump-all-ok] auth-center-dev.yaml+DEFAULT_GROUP, 1635156407109, length=84, md5=9773e9d9a87d5621b48a8f7ff2de0434
+
+2021-10-27 11:15:54,382 INFO [dump-all-ok] common.yaml+DEFAULT_GROUP, 1635156407109, length=597, md5=f0846eb078f2f8574e67d66012c25602
+
+2021-10-27 11:15:54,382 INFO [dump-all-ok] db.yaml+DEFAULT_GROUP, 1635157151500, length=563, md5=d3e52f55eb3b01686967ee48803fe4a3
+
+2021-10-27 11:15:54,382 INFO [dump-all-ok] gateway-dev.yaml+DEFAULT_GROUP, 1635304271660, length=831, md5=4f21d2099825bad8c6d961d78bef0e62
+
+2021-10-27 11:15:54,382 INFO [dump-all-ok] pay-service-dev.yaml+DEFAULT_GROUP, 1635156407109, length=20, md5=832e34a52826a061697640e41dc4aa44
+
+2021-10-27 11:15:54,383 INFO [dump-all-ok] security.yaml+DEFAULT_GROUP, 1635156407109, length=127, md5=791d88f7c514dc017a8c4d02af820def
+
+2021-10-27 11:15:54,383 INFO [dump-all-ok] ticket-service-dev.yaml+DEFAULT_GROUP, 1635156407109, length=21, md5=900097e2d76c7abb22d12494f50ab799
+

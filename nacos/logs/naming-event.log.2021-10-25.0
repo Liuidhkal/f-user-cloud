@@ -1,0 +1,108 @@
+2021-10-25 18:07:07,700 INFO DEFAULT_GROUP@@auth-center {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.220.1:9098:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-10-25 18:07:07,703 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@auth-center, ips: 192.168.220.1:9098_true,
+
+2021-10-25 18:09:42,171 INFO DEFAULT_GROUP@@auth-center {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.220.1:9098:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-10-25 18:09:42,171 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@auth-center, ips: 
+
+2021-10-25 18:11:32,007 INFO DEFAULT_GROUP@@auth-center {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.220.1:9098:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-10-25 18:11:32,007 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@auth-center, ips: 192.168.220.1:9098_true,
+
+2021-10-25 18:15:06,213 INFO DEFAULT_GROUP@@admin-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.220.1:9001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-10-25 18:15:06,213 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@admin-service, ips: 192.168.220.1:9001_true,
+
+2021-10-25 18:19:37,793 INFO DEFAULT_GROUP@@ticket-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.220.1:9006:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-10-25 18:19:37,793 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@ticket-service, ips: 192.168.220.1:9006_true,
+
+2021-10-25 18:27:18,930 INFO DEFAULT_GROUP@@gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.220.1:8062:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-10-25 18:27:18,930 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway, ips: 192.168.220.1:8062_true,
+
+2021-10-25 18:28:25,743 INFO DEFAULT_GROUP@@admin-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.220.1:9001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-10-25 18:28:25,744 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@admin-service, ips: 
+
+2021-10-25 18:28:45,179 INFO DEFAULT_GROUP@@admin-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.220.1:9001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-10-25 18:28:45,179 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@admin-service, ips: 192.168.220.1:9001_true,
+
+2021-10-25 18:33:13,387 INFO DEFAULT_GROUP@@admin-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.220.1:9001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-10-25 18:33:13,387 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@admin-service, ips: 
+
+2021-10-25 18:33:36,434 INFO DEFAULT_GROUP@@admin-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.220.1:9001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-10-25 18:33:36,435 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@admin-service, ips: 192.168.220.1:9001_true,
+
+2021-10-25 18:36:07,793 INFO DEFAULT_GROUP@@admin-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.220.1:9001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-10-25 18:36:07,793 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@admin-service, ips: 
+
+2021-10-25 18:39:18,596 INFO DEFAULT_GROUP@@admin-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.220.1:9001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-10-25 18:39:18,596 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@admin-service, ips: 192.168.220.1:9001_true,
+
+2021-10-25 18:43:29,552 INFO DEFAULT_GROUP@@admin-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.220.1:9001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-10-25 18:43:29,552 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@admin-service, ips: 
+
+2021-10-25 18:44:00,763 INFO DEFAULT_GROUP@@admin-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.220.1:9001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-10-25 18:44:00,763 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@admin-service, ips: 192.168.220.1:9001_true,
+
+2021-10-25 18:45:23,647 INFO {POS} {IP-DISABLED} valid: 192.168.220.1:9001@DEFAULT@DEFAULT_GROUP@@admin-service, region: unknown, msg: client timeout after 15000, last beat: 1635158708629
+
+2021-10-25 18:45:38,660 INFO DEFAULT_GROUP@@admin-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.220.1:9001:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2021-10-25 18:45:38,660 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@admin-service, ips: 
+
+2021-10-25 18:52:08,284 INFO DEFAULT_GROUP@@admin-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.220.1:9001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-10-25 18:52:08,284 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@admin-service, ips: 192.168.220.1:9001_true,
+
+2021-10-25 18:52:09,186 INFO DEFAULT_GROUP@@admin-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.220.1:9001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-10-25 18:52:09,186 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@admin-service, ips: 
+
+2021-10-25 18:52:37,628 INFO DEFAULT_GROUP@@admin-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.220.1:9001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-10-25 18:52:37,628 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@admin-service, ips: 192.168.220.1:9001_true,
+
+2021-10-25 18:54:01,190 INFO DEFAULT_GROUP@@admin-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.220.1:9001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-10-25 18:54:01,190 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@admin-service, ips: 
+
+2021-10-25 18:54:29,846 INFO DEFAULT_GROUP@@admin-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.220.1:9001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-10-25 18:54:29,846 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@admin-service, ips: 192.168.220.1:9001_true,
+
+2021-10-25 18:55:43,324 INFO {POS} {IP-DISABLED} valid: 192.168.220.1:9001@DEFAULT@DEFAULT_GROUP@@admin-service, region: unknown, msg: client timeout after 15000, last beat: 1635159325320
+
+2021-10-25 18:55:58,329 INFO DEFAULT_GROUP@@admin-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.220.1:9001:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2021-10-25 18:55:58,329 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@admin-service, ips: 
+
+2021-10-25 18:56:06,648 INFO DEFAULT_GROUP@@admin-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.220.1:9001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-10-25 18:56:06,648 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@admin-service, ips: 192.168.220.1:9001_true,
+
+2021-10-25 18:59:50,939 INFO DEFAULT_GROUP@@admin-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.220.1:9001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-10-25 18:59:50,939 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@admin-service, ips: 
+
+2021-10-25 19:01:30,324 INFO DEFAULT_GROUP@@auth-center {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.220.1:9098:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-10-25 19:01:30,324 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@auth-center, ips: 
+
+2021-10-25 19:01:56,405 INFO DEFAULT_GROUP@@auth-center {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.220.1:9098:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-10-25 19:01:56,405 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@auth-center, ips: 192.168.220.1:9098_true,
+
+2021-10-25 19:02:16,022 INFO DEFAULT_GROUP@@admin-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.220.1:9001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-10-25 19:02:16,022 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@admin-service, ips: 192.168.220.1:9001_true,
+

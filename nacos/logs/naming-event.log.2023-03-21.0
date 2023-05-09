@@ -1,0 +1,76 @@
+2023-03-21 14:33:28,004 INFO DEFAULT_GROUP@@dept-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.220.1:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-21 14:33:28,006 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@dept-service, ips: 192.168.220.1:9002_true,
+
+2023-03-21 14:34:11,191 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.220.1:9001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-21 14:34:11,192 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 192.168.220.1:9001_true,
+
+2023-03-21 14:35:31,869 INFO DEFAULT_GROUP@@gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.220.1:8062:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-21 14:35:31,869 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway, ips: 192.168.220.1:8062_true,
+
+2023-03-21 14:36:04,827 INFO DEFAULT_GROUP@@gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.220.1:8062:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-21 14:36:04,827 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway, ips: 
+
+2023-03-21 14:36:06,156 INFO DEFAULT_GROUP@@dept-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.220.1:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-21 14:36:06,156 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@dept-service, ips: 
+
+2023-03-21 14:36:06,306 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.220.1:9001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-21 14:36:06,306 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 
+
+2023-03-21 14:37:03,628 INFO DEFAULT_GROUP@@dept-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.220.1:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-21 14:37:03,629 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@dept-service, ips: 192.168.220.1:9002_true,
+
+2023-03-21 14:37:29,294 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.220.1:9001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-21 14:37:29,294 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 192.168.220.1:9001_true,
+
+2023-03-21 14:37:48,901 INFO DEFAULT_GROUP@@gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.220.1:8062:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-21 14:37:48,901 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway, ips: 192.168.220.1:8062_true,
+
+2023-03-21 14:42:59,366 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.220.1:9001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-21 14:42:59,367 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 
+
+2023-03-21 14:44:05,558 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.220.1:9001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-21 14:44:05,558 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 192.168.220.1:9001_true,
+
+2023-03-21 14:44:55,458 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.220.1:9001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-21 14:44:55,458 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 
+
+2023-03-21 14:44:57,323 INFO DEFAULT_GROUP@@dept-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.220.1:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-21 14:44:57,323 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@dept-service, ips: 
+
+2023-03-21 14:47:16,528 INFO DEFAULT_GROUP@@dept-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.220.1:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-21 14:47:16,528 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@dept-service, ips: 192.168.220.1:9002_true,
+
+2023-03-21 14:48:09,717 INFO DEFAULT_GROUP@@dept-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.220.1:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-21 14:48:09,717 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@dept-service, ips: 
+
+2023-03-21 14:49:21,246 INFO DEFAULT_GROUP@@dept-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.220.1:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-21 14:49:21,247 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@dept-service, ips: 192.168.220.1:9002_true,
+
+2023-03-21 14:53:03,273 INFO DEFAULT_GROUP@@dept-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.220.1:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-21 14:53:03,273 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@dept-service, ips: 
+
+2023-03-21 14:53:36,148 INFO DEFAULT_GROUP@@dept-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.220.1:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-21 14:53:36,148 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@dept-service, ips: 192.168.220.1:9002_true,
+
+2023-03-21 14:56:07,663 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.220.1:9001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-21 14:56:07,663 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 192.168.220.1:9001_true,
+

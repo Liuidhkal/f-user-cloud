@@ -1,0 +1,12 @@
+2023-03-21 14:31:48,637 INFO [dump-all-ok] common.yaml+DEFAULT_GROUP, 1635156407109, length=597, md5=f0846eb078f2f8574e67d66012c25602
+
+2023-03-21 14:31:48,640 INFO [dump-all-ok] db.yaml+DEFAULT_GROUP, 1675223759539, length=557, md5=7f7bc85fcea1a097f5bf1aad8f40ba20
+
+2023-03-21 14:31:48,640 INFO [dump-all-ok] gateway-dev.yaml+DEFAULT_GROUP, 1675230390353, length=578, md5=edcd0efd18afe7f51c78e6d86e27f6c9
+
+2023-03-21 14:31:48,640 INFO [dump-all-ok] user-service-dev.yaml+DEFAULT_GROUP, 1675223799876, length=20, md5=7eaa8d2ec3803de0dd025e2d96e83606
+
+2023-03-21 14:31:48,640 INFO [dump-all-ok] dept-service-dev.yaml+DEFAULT_GROUP, 1675230349355, length=20, md5=2aa086532ae3ff142ad02845bdc82eaf
+
+2023-03-21 14:52:54,187 WARN [dump-ignore] ignore to save cache file. groupKey=db.yaml+DEFAULT_GROUP, md5=3045dc333f540607b64a854ed9afc6f4, lastModifiedOld=1679381565174, lastModifiedNew=1679381574136
+
