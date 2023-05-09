@@ -11,6 +11,8 @@
         <module>user-service</module>
 		<module>api-gateway</module>
         <module>dept-service</module>
+        <module>titleType-service</module>
+        <module>title-service</module>
     </modules>
 
     <packaging>pom</packaging>
